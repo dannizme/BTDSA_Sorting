@@ -1,0 +1,7 @@
+Interchange Sort: 1.80361 seconds
+Selection Sort: 0.388416 seconds
+Insertion Sort: 0.276356 seconds
+Bubble Sort: 1.18142 seconds
+Quick Sort: 0.0024684 seconds
+Merge Sort: 0.0025022 seconds
+Heap Sort: 0.0042442 seconds
